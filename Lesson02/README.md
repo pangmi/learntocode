@@ -4,6 +4,9 @@
    - Using right click to do drag and drop
    - Copy  (`Ctrl + C`)
    - Paste (`Ctrl + V`)
+   - Please spend some time to learn basics of Windows 10 with the following videos:
+      - https://youtu.be/8d9FY3LpR4E
+      - https://youtu.be/9JCV8QO9180      
 
 2. Download [sample code](https://teachyourkidstocode.com/download/Udemy_code.zip) to the newly created folder in C drive
 3. String can be single-quoted or double-quoted
