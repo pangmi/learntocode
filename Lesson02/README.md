@@ -18,7 +18,7 @@
     ```
 
 4. Homework:
-    - In our school's cookie sale, Kinston sold 320 cookies, Felix sold 275 and Clara sold 245. Write a program to print out the total number of cookies that they sold, and the average number of cookies that they sold. The expected result should be as below:
+    - In our school's cookie sale, Kingston sold 320 cookies, Felix sold 275 and Clara sold 245. Write a program to print out the total number of cookies that they sold, and the average number of cookies that they sold. The expected result should be as below:
       ```
       The total cookies sold: 840
       The average cookies sold: 280
@@ -29,7 +29,7 @@
       We have the following member:
           Clara
           Felix
-          Kinston
+          Kingston
       
       These are the awesome members in our Python team: [ Clara, Felix, Kingston ]
       ``` 
