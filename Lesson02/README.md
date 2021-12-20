@@ -6,7 +6,8 @@
    - Paste (`Ctrl + V`)
    - Please spend some time to learn basics of Windows 10 with the following videos:
       - https://youtu.be/8d9FY3LpR4E
-      - https://youtu.be/9JCV8QO9180      
+      - https://youtu.be/9JCV8QO9180
+      - https://youtu.be/Mlb09xsIDLc
 
 2. Download [sample code](https://teachyourkidstocode.com/download/Udemy_code.zip) to the newly created folder in C drive
 3. String can be single-quoted or double-quoted
@@ -33,5 +34,8 @@
       
       These are the awesome members in our Python team: [ Clara, Felix, Kingston ]
       ``` 
+
+   - Learn how to use Windows 10:
+      - https://www.youtube.com/playlist?list=PLeH4ngtDM7eGai_xYLIihQ7ifSWHLvGPe
  
 5. Please practice the programs in the [Code](https://github.com/pangmi/learntocode/tree/main/Lesson02/Code) folder
