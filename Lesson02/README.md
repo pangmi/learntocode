@@ -27,7 +27,7 @@
     
     - Our [Python](https://www.python.org) team has three awesome members: Clara, Felix and Kingston. Write a program to assign each member's name to a variable using single quote or double quote, and print out their names separately and together. The expected result should be as below:
       ```
-      We have the following member:
+      We have the following members:
           Clara
           Felix
           Kingston
