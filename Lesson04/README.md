@@ -42,6 +42,9 @@
      t.speed(0)
      t.speed(1)
      ```
+   - Turtle coordinates: \
+     \
+       ![image](https://user-images.githubusercontent.com/36340668/148709383-5d9795fb-901c-4e29-b66f-ebdd766ff88f.png)
 
 1. Review and pratice the following sample codes
    1. [Draw a square](https://github.com/pangmi/learntocode/blob/main/Lesson04/Code/MySquare1.py)
