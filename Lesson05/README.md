@@ -1,11 +1,11 @@
 1. Python programming style:
    - Proper indent in code block:
-   ```
-   # indent 4 spaces within code block
-   for x in range(10):
-       x = x * 2
-       print(x)
-   ```
+      ```
+      # indent 4 spaces within code block
+      for x in range(10):
+          x = x * 2
+          print(x)
+      ```
 
 1. Some cool featues in turtle graphics:
    ```
