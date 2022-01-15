@@ -28,6 +28,7 @@
      |%|Modulus|x % y|
      |**|Exponentiation|x ** y|
      |//|Floor division|x // y|
+     |()|Parentheses|(4 + 5) * 6|
 
 3. Use IDLE to run Python commands
 4. Create our first program and run it on IDLE
