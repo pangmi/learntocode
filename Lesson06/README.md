@@ -20,8 +20,6 @@
      ```
      
 #### 3. Variable Name and Programming Style
-   Please review and run program ***ThankYou.py*** in sample code **s03** folder
-    
    - Variable name should begin with a letter (a - z)
    - The rest of the name can include letters, numbers, or underscore ( _ )
    - Variable name should be lowercase words with underscore in between
@@ -44,21 +42,23 @@
      print(x)
      x = -x
      print(x)
+     x = x ** 2
+     print(x)
      ```
 
 #### 5. Syntax Errors
   ```
   What is 1 + 2?
   3 + 4 = 
-  3 + 4
   ```
 
-#### 6. New turtle functions
+#### 6. Introducing New Functions from turtle
   ```
   t.penup()
   t.pendown()
   t.goto(200, 200)
   ```
+
 #### 7. Sample Code
    - Multiply all the number in a number list
      ```
@@ -89,3 +89,34 @@
      t.goto(200, 0)
      t.goto(0, 0)
      ```
+
+#### 8. Please review and run the following programs in sample code **s03** folder
+   - ThankYou.py
+   - AtlantaPizza.py
+   - SayMyName.py
+   - SpiralMyName.py
+
+#### 9. Homework
+   - Write a program, which asks user to enter a number, then increase the number itself by 5, then decrease itself by 2, and then square itself up. For example, if the user enters 25, the expected the results should be like below:
+     ```
+     Please enter a number: 25
+     n + 5 = 30
+     n - 2 = 28
+     The square of n =  784
+     ```
+
+   - Write a program, which asks user to enter a positive number and then generates the [factorial](https://en.wikipedia.org/wiki/Factorial) of the number. The expected result should be like below:
+     ```
+     Please enter a positive number: 9
+     n! = 362880
+     ```
+     ***Hint:*** 1. Refer to the first sample code on how to accumulate the result.    2. Use the newly learned range function
+
+   - With newly learned turtle functions, write a program to generate a smiley face like the following 
+     ![image](https://user-images.githubusercontent.com/36340668/149713921-96217238-f8f0-45e6-9d03-9ac6a0a39da6.png)
+     
+     ***Hint:*** For your reference, you can use the following coordinates, radiuses and sizes
+     ![image](https://user-images.githubusercontent.com/36340668/149713361-cba17b8f-469f-4b50-b74d-4198a497cdc8.png)
+     
+
+    
