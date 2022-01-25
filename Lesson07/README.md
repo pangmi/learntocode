@@ -65,4 +65,5 @@
      
      **Note**: 
         - You also need to output the words: International Olympic Committee
-        - To make you code simple and elegant, please use a loop to draw the rings
+        - To make you code simple and elegant, please use a loop to draw the rings (***Hint***: store colors, x and y postions in lists, then loop thru the lists)
+        - For how to output the words, refer to program *SpiralMyName.py* in sample code ***s03*** folder
