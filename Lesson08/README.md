@@ -111,7 +111,7 @@
      Previous number: 9 Current number: 10 Sum: 19     
      ```
 
-   - Write a program to accept a string from the user and display characters that are present at an even index number. For example, if user input ***PythonIsFun***, the output should be ***y h n s u ***
+   - Write a program to accept a string from the user and display characters that are present at an even index number. For example, if user input ***PythonIsFun***, the output should be `y h n s u`
 
    - Write a program to create a number list in the following iteration:
      1. Ask user to enter a number or letter ***q***
