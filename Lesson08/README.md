@@ -160,4 +160,21 @@
      The expected output should be like below with color *blue*, *red*,  and 50 circles
      ![image](https://user-images.githubusercontent.com/36340668/151744110-1115a42c-9274-4dd9-ad12-38f0f692a8c0.png)
 
-
+   - ***Challenge Problem***: Print out a STAR tree with the following pattern:
+     ``` Python
+               *
+              ***
+             *****
+            *******
+           *********
+          ***********
+         *************
+        ***************
+       *****************
+      *******************
+               *
+               *
+               *
+               *
+               *     
+     ```
