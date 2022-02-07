@@ -160,7 +160,7 @@
      The expected output should be like below with color *blue*, *red*,  and 50 circles
      ![image](https://user-images.githubusercontent.com/36340668/151744110-1115a42c-9274-4dd9-ad12-38f0f692a8c0.png)
 
-   - ***Challenge Problem***: Print out a STAR tree with the following pattern:
+   - ***Challenge Problem 01***: Print out a STAR tree with the following pattern:
      ``` Python
                *
               ***
@@ -176,5 +176,36 @@
                *
                *
                *
-               *     
+               *   
      ```
+
+   - ***Challenge Problem 02***: Write a program to print out a STAR tree. The program first asks user to enter the number of lines of the tree's main part and then print it out. For example, if the user enters *19*, the expected result should be the following:
+     ``` Python
+      Please enter the number of lines of the tree's main part: 19
+      
+                        *
+                       ***
+                      *****
+                     *******
+                    *********
+                   ***********
+                  *************
+                 ***************
+                *****************
+               *******************
+              *********************
+             ***********************
+            *************************
+           ***************************
+          *****************************
+         *******************************
+        *********************************
+       ***********************************
+      *************************************
+                        **
+                        **
+                        **
+                        **
+                        **
+     ```
+     
