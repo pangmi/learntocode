@@ -95,14 +95,19 @@
 
 #### Homework
    1. Review and run all programs in sample code ***s04*** folder
-   2. ***Learn about [Caesar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher) as we will discuss it in the next class***
-   3.  Write a program to create a list of your teammates' names in one of your sports team:
+   2. ***Learn about the following as we need to have these basic knowledges in the next class***
+       - [Caesar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
+       - [Why Do Computers Use 1s and 0s](https://youtu.be/Xpk67YzOn5w)
+       - [Number Systems Introduction](https://youtu.be/FFDMzbrEXaE)
+       - [What is ASCII Code](https://youtu.be/UJPY9UgGO1c)
+       - [ASCII Code and Binary](https://youtu.be/H4l42nbYmrU)
+   4.  Write a program to create a list of your teammates' names in one of your sports team:
        - Ask user to enter a teammate name or letter ***q***
        - If user entered letter ***q***, end the iteration
        - Otherwise, add the name to the list.
        - Continue to ask the user to enter 
        - When the iteration ends, print out the list
-   4. Write a program to create a list of colors excluding *white*:
+   5. Write a program to create a list of colors excluding *white*:
        - Ask user to enter a color or letter ***q***
        - If user entered letter ***q***, end the iteration
        - If the color is *white*, do not add it to the list
