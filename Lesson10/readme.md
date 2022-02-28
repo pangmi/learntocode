@@ -111,6 +111,7 @@
    1. Write a program which asks the user to enter a list of comma-delimited numbers and print the smallest and biggest numbers.
       - user must enter at least 5 numbers
       - for example, if the user enters `23, 34, 156, 637, 49, 13, 54, 33`, the output should be `The smallest number is 13, the biggest number is 637`
+      - do not use Python built-in functions [min()](https://docs.python.org/3/library/functions.html#min) and [max()](https://docs.python.org/3/library/functions.html#max)
    1. Write a program to cipher text with Caesar Cipher:
       - Ask user to enter a positive shift value (1 - 25)
       - Ask user to enter any text
