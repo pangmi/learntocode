@@ -36,8 +36,8 @@
       - https://youtu.be/hNrhLdo8qas
    1. Using Windows Command Prompt, do the following:
        - Create a folder under *C:* drive: `C:\Temp\Temp01\Temp02\Temp03`
-       - In the above folder, create an empty text file named `MyTempFile01.txt`
-       - In the same folder, copy the above file to `MyTempFile02.txt`
+       - Run Windows File Explorer or `This PC` app, go to the above folder, and create an empty text file named `MyTempFile01.txt`
+       - Go back to Command Prompt, using command `copy` to copy the above file to `MyTempFile02.txt`
        - Display the files in the newly created folder
 
  
