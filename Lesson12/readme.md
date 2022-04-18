@@ -63,6 +63,35 @@
                break
            print(x, '*', y, '=', x * y)
    ```
+
+#### 4. `continue` statement
+   The `continue` statement skips the rest of the code in the current loop. Loop does not terminate but continues on with the next iteration.
+   
+   ``` Python
+   # The following code will not print out the space in the text
+   str = 'Hello World!'
+   for s in str:
+       if (s == ' '):
+           continue
+       print(s, end='')
+   ```
+   
+   ``` Python
+   # print all numbers from 1 to 100 except those that can be divided by 3
+   for n in range(1, 101):
+       if n % 3 == 0:
+           continue
+       print(n, end=', ')   
+   ```
+   
+   ``` Python
+   # providing a sentence, do not print out vowels and spaces
+   str = input('Please enter a statement: ')
+   for i in str:
+       if i.lower() in 'aeiou' or i == ' ': 
+           continue
+       print(i, end='')   
+   ```
    
 #### Homework
    1. Review Windows commannds in [Lession 11](https://github.com/pangmi/learntocode/blob/main/Lesson11/readme.md)
@@ -76,3 +105,12 @@
    1. Write a program that asks user to enter a string and returns that string in reverse order. For example, if user enters ***Hello***, the result should be ***olleH***
    1. Write a program to print odd numbers starting from 1 to 200. However, when the odd number can be divided by 11 and 13, stop printing and exit the program.
 
+   1. Write a program that asks user to enter a string and returns the number of consonants contained within it. 
+       - A consonat letter is a letter which is not `A, E, I, O, U`
+       - For example, if user enters ***Hello Everyone!***, the program should print out ***Total consonants: 7***
+       - *hint*: Use `isupper()`, `islower()` or `isalpha()` to check if a character is alphabet letter
+   1. Write a program to print even numbers from 2 to 100 except those that can be divided by 6 or 9 or 13.
+   1. Write a program to encode text to numbers:
+       - Ask user to enter a positive shift value (1 - 10)
+       - Ask user to enter any text message
+       - Encode the text into a list of numbers and print out the result. *Hint*: you can use function `ord()` to convert text to an ASCII number
