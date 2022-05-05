@@ -80,7 +80,18 @@
    ```
    
 #### Homework
-   1. Write a program to create a list of 12 numbers. Each number in the list is randomly generated between 1 and 2000. **Please do not generate and print each number separately, that is lazy coding. You must add each number in the list and then print them out all together**. 
-   1. Guessing colors
-   1. Guessing animals
-   1. Guessing even or odd numbers
+   1. Write a program to create a list of 12 numbers. Each number in the list is randomly generated between 1 and 2000. **Please do not generate and print each number separately. You must add each number into the list and then print them out all together**. 
+   1. Write a program to ask user to guess animal.
+      - First, randomly select an animal from list `['dog', 'cat', 'goldfish', 'lama', 'alpaca', 'camel', 'lion', 'tiger', 'panda', 'pig', 'cow', 'duck']`
+      - Then ask the user to guess the animal
+      - User can guess up to 3 times. If the user guessed right, print `You guessed right`. If the user did not guess right for 3 times, print `You guessed wrong`
+      - **Hint**: you may need to use loop and `break` statement (e.g., if the user guessed right, you need to break from the loop)
+   1. Write a program to ask user to guess odd or even number.
+      - First, randomly generate a number between 1 and 2000
+      - Then ask the user to guess if the number is odd or even. 
+      - User can guess up to 3 times. If the user guessed right, print `You guessed right`. If the user did not guess right for 3 times, print `You guessed wrong`
+      - **Hint**: 
+         - You may need to use loop and `break` statement (e.g., if the user guessed right, you need to break from the loop)
+         - Think about how to determine the random number and the guessed number are even or odd and how to compare them
+         - You can ask user to enter 0 for even number and 1 for odd number like the following code:
+             `user_num = int(input("Please enter 0 for even number or enter 1 for odd number: "))`
