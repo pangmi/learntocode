@@ -80,7 +80,7 @@
    ```
    
 #### Homework
-   1. Create a list of 12 numbers that are randomly generated between 1 and 2000
+   1. Write a program to create a list of 12 numbers. Each number in the list is randomly generated between 1 and 2000. **Please do not generate and print each number separately, that is lazy coding. You must add each number in the list and then print them out all together**. 
    1. Guessing colors
    1. Guessing animals
    1. Guessing even or odd numbers
