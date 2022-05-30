@@ -31,3 +31,6 @@
    6. Write a program to create a list of 100 random numbers from 1, 2 and 3. 
       - You must add each number into the list and then print them out all together.
       - Count the total number of 1s, 2s and 3s, and print these total counts out
+   7. Write a program to create a list of 100 random numbers between 1 and 1000. 
+      - You must add each number into the list and then print them out all together
+      - Find and print the biggest and smallest numbers
