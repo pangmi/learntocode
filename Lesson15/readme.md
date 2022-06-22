@@ -51,5 +51,5 @@
    ```
    
 #### Homework
-   1. Review and execute the code of [Deck of Cards]()
+   1. Review and execute the code of [Deck of Cards](https://github.com/pangmi/learntocode/blob/main/Lesson15/Code/DeckOfCards.py)
    2. Read section ***1 Concepts and Vocabulary*** (Page 1 to 69) in book **Python Flash Cards**
