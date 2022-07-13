@@ -15,7 +15,7 @@
    
 #### 2. Keep it going in a loop:
    ``` Python
-   keep_going = true
+   keep_going = True
    while keep_going:
        # 1. do some coding
        
@@ -23,13 +23,13 @@
        # 2. keep it going or not?
        answer = input("Enter 'c' to continue or 'q' to quit")
        if answer == 'c':
-           keep_going = true
+           keep_going = True
        else:
-           keep_going = false
+           keep_going = False
    ```
    
    ``` Python
-   keep_going = true
+   keep_going = True
    while keep_going:
        # 1. do some coding
        
@@ -40,7 +40,7 @@
    ```
    
    ``` Python
-   keep_going = true
+   keep_going = True
    while keep_going:
        # 1. do some coding
        
@@ -52,4 +52,8 @@
    
 #### Homework
    1. Review and execute the code of [Deck of Cards](https://github.com/pangmi/learntocode/blob/main/Lesson15/Code/DeckOfCards.py)
-   2. Read section ***1 Concepts and Vocabulary*** (Page 1 to 69) in book **Python Flash Cards**
+   1. Read section ***1 Concepts and Vocabulary*** (Page 1 to 69) in book **Python Flash Cards**
+   1. Read section ***2.1 - 2.4*** (Page 70 to 79) in book **Python Flash Cards**
+   1. Review the code of [Roll 5 Dice](https://github.com/pangmi/learntocode/blob/main/Lesson15/Code/Roll5Dice.py); add code to in the program with the following change:
+      - if any of the two dice are the same, print `Two of a kind!`
+  
