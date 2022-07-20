@@ -56,4 +56,5 @@
    1. Read section ***2.1 - 2.4*** (Page 70 to 79) in book **Python Flash Cards**
    1. Review the code of [Roll 5 Dice](https://github.com/pangmi/learntocode/blob/main/Lesson15/Code/Roll5Dice.py); add code to in the program with the following change:
       - if any of the two dice are the same, print `Two of a kind!`
-  
+   1. Read section ***2.5 - 2.9*** (Page 80 to 89) in book **Python Flash Cards**
+   1. Review the code of [Kaleidoscope](https://github.com/pangmi/learntocode/blob/main/Lesson15/Code/Kaleidoscope.py)
